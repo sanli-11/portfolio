@@ -14,3 +14,17 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
+@layer components {
+  .font-square {
+    font-family: "Do Hyeon", serif;
+  }
+
+  .font-round {
+    font-family: "League Spartan", serif;
+  }
+
+  .font-tight {
+    font-family: "Oswald", serif;
+  }
+}
